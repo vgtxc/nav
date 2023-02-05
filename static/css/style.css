@@ -63,26 +63,6 @@ textarea {
     margin-top: -100px; 
     clear:both; */
 }
-/* logo start  */
-.logo-box {
-    display: flex;
-    overflow: hidden;
-    margin-left: 35%;
-    align-items: center;
-}
-.logo-left {
-    position: relative;
-    width: 10%;
-    height: 9%;
-    cursor: pointer;
-}
-.logo-right {
-    padding-left: 10%;
-    font-size: 20px;
-    color: rgb(90, 158, 210);
-    font-family: SourceHanSansSC-regular;
-}
-/* logo end  */
 
 /*  导航内容 start  */
 .nav-content {
@@ -96,8 +76,8 @@ textarea {
 /*-----------------------------简洁版样式定义- 开始---------------------------------------------------*/
 
 .jj-list {
-    width: 33.33%;
-    float: left;
+    width: 100%;
+    float: center;
     margin-bottom: 30px;
     padding-right: 16px;
 }
